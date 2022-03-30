@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/rick-and-morty-app/static/css/main.fc4c73c1.css",
+    "main.js": "/rick-and-morty-app/static/js/main.96135299.js",
+    "static/js/787.ac0ea949.chunk.js": "/rick-and-morty-app/static/js/787.ac0ea949.chunk.js",
+    "static/media/image (1).png": "/rick-and-morty-app/static/media/image (1).b1b604c1ffcc5a777dcc.png",
+    "static/media/header-title.png": "/rick-and-morty-app/static/media/header-title.e5d5c5233718e6b73290.png",
+    "static/media/loader.gif": "/rick-and-morty-app/static/media/loader.d78bf89a8da978329df1.gif",
+    "static/media/episod-tv.png": "/rick-and-morty-app/static/media/episod-tv.22326bb7613290ee052b.png",
+    "static/media/header-logo.png": "/rick-and-morty-app/static/media/header-logo.ea123e57c499f9bbbb5d.png",
+    "index.html": "/rick-and-morty-app/index.html",
+    "main.fc4c73c1.css.map": "/rick-and-morty-app/static/css/main.fc4c73c1.css.map",
+    "main.96135299.js.map": "/rick-and-morty-app/static/js/main.96135299.js.map",
+    "787.ac0ea949.chunk.js.map": "/rick-and-morty-app/static/js/787.ac0ea949.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc4c73c1.css",
+    "static/js/main.96135299.js"
+  ]
+}
