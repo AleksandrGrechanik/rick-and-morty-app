@@ -17,4 +17,4 @@
 Приложение содержит карточки персонажей, фильтрацию,а так же список серий.
 
 
-![Иллюстрация к проекту](https://pngset.com/images/rick-and-morty-morty-group-rick-n-morty-person-human-comics-book-transparent-png-1553686.png)
+![Иллюстрация к проекту](https://i.gifer.com/8BkJ.gif)
