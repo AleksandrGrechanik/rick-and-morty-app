@@ -1,0 +1,27 @@
+.filter-box {
+  margin-top: 20px;
+  padding: 15px;
+  display: grid;
+  grid-template-columns: repeat(2, 50%);
+  grid-gap: 10px;
+  justify-content: center;
+  cursor: url("../../pictures/cursor3.png"), auto;
+}
+
+.filter-box :focus {
+  cursor: url("../../pictures/cursor3.png"), auto;
+}
+
+.filter-box :hover {
+  cursor: url("../../pictures/cursor3.png"), auto;
+}
+
+.input-filter {
+  padding: 10px;
+  border: none;
+  outline: none;
+  border-radius: 10px;
+  background-color: #76f03f;
+  font-size: 20px;
+  cursor: url("../../pictures/cursor3.png"), auto;
+}

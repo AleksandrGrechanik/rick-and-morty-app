@@ -1,0 +1,54 @@
+.select-box {
+  position: relative;
+}
+
+.show-episodes__btn {
+  padding: 10px;
+  border: 1px solid yellow;
+  border-radius: 10px;
+  background-color: #76f03f;
+  font-size: 20px;
+  cursor: url("../../pictures/cursor3.png"), auto;
+}
+
+
+.select__wrapper {
+  display: none;
+  width: 238px;
+  height: 180px;
+  overflow: auto;
+  position: absolute;
+  top: -180px;
+  right: -301px;
+  word-break: break-word;
+}
+
+.tv-img__box {
+  width: 400px;
+  position: absolute;
+  top: -212px;
+  right: -423px;
+  display: none;
+
+}
+
+.active--element {
+  display: block;
+}
+
+
+.select__wrapper::-webkit-scrollbar{
+  display: none;
+}
+
+.select__item {
+  margin-bottom: 15px;
+}
+
+@media(max-width: 500px) {
+
+  .select__wrapper {
+    margin-top: 5px;
+  }
+
+}

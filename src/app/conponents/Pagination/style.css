@@ -1,0 +1,26 @@
+.pagination-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.pagination__pages-box {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.pagination__btn {
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  background-color: #76f03f;
+  font-size: 20px;
+  cursor: url("../../pictures/cursor3.png"), auto;
+}
+
+
+.no-active__btn {
+  background-color: red;
+}
