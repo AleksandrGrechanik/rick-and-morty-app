@@ -1,7 +1,9 @@
 # Rick and Morty App
 
 Приложение даёт доступ ко всем персонажам из вселенной Рика и Морти
-demo: (https://aleksandrgrechanik.github.io/rick-and-morty-app/)
+
+
+## demo: (https://aleksandrgrechanik.github.io/rick-and-morty-app/)
 
 ## First start
 
