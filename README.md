@@ -17,4 +17,4 @@
 Приложение содержит карточки персонажей, фильтрацию,а так же список серий.
 
 
-![Иллюстрация к проекту](https://i.gifer.com/8BkJ.gif)
+![Иллюстрация к проекту](https://ae01.alicdn.com/kf/H52dc926a5ff349299ee75a21acccf74fR/1PCS-Lovely-Badge-For-Decoration-On-Kids-Clothes-Acrylic-Rick-And-Morty-Icon-Brooch-Pin-Halloween.jpg)
